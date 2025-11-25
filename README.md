@@ -2,6 +2,7 @@
 
 Oi meu nome é lucas 
 
-| Nome | Atividade | Nota |  
-
-|Lucas  |---| Github |---| 5 | 
+| Nome  | Atividade | Nota |
+|-------|-----------|------|
+| Lucas | Github    | 5    |
+ 
