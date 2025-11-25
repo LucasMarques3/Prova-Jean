@@ -4,4 +4,4 @@ Oi meu nome é lucas
 
 | Nome | Atividade | Nota |  
 
-|Lucas|---|Github|---|5| 
+|Lucas  |---| Github |---| 5 | 
